@@ -8,7 +8,7 @@ import {
   NotificationBell,
   PopoverNotificationCenter,
 } from "@novu/notification-center";
-import { motion } from "framer-motion";
+
 import {
   fadeIn,
   footerVariants,
